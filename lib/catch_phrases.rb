@@ -1,5 +1,5 @@
 def mario
-  
+  status = "Hello"
   
   puts phrase
 end
